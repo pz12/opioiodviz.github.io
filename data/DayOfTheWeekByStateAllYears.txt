@@ -1,0 +1,359 @@
+"State"	"State Code"	"Weekday"	"Weekday Code"	Deaths
+"Alabama"	"01"	"Sunday"	"1"	1144
+"Alabama"	"01"	"Monday"	"2"	901
+"Alabama"	"01"	"Tuesday"	"3"	928
+"Alabama"	"01"	"Wednesday"	"4"	906
+"Alabama"	"01"	"Thursday"	"5"	1015
+"Alabama"	"01"	"Friday"	"6"	1169
+"Alabama"	"01"	"Saturday"	"7"	1237
+"Alaska"	"02"	"Sunday"	"1"	226
+"Alaska"	"02"	"Monday"	"2"	205
+"Alaska"	"02"	"Tuesday"	"3"	207
+"Alaska"	"02"	"Wednesday"	"4"	214
+"Alaska"	"02"	"Thursday"	"5"	211
+"Alaska"	"02"	"Friday"	"6"	209
+"Alaska"	"02"	"Saturday"	"7"	263
+"Arizona"	"04"	"Sunday"	"1"	2291
+"Arizona"	"04"	"Monday"	"2"	2121
+"Arizona"	"04"	"Tuesday"	"3"	2006
+"Arizona"	"04"	"Wednesday"	"4"	1958
+"Arizona"	"04"	"Thursday"	"5"	2088
+"Arizona"	"04"	"Friday"	"6"	2076
+"Arizona"	"04"	"Saturday"	"7"	2359
+"Arkansas"	"05"	"Sunday"	"1"	757
+"Arkansas"	"05"	"Monday"	"2"	571
+"Arkansas"	"05"	"Tuesday"	"3"	620
+"Arkansas"	"05"	"Wednesday"	"4"	606
+"Arkansas"	"05"	"Thursday"	"5"	635
+"Arkansas"	"05"	"Friday"	"6"	710
+"Arkansas"	"05"	"Saturday"	"7"	701
+"California"	"06"	"Sunday"	"1"	8657
+"California"	"06"	"Monday"	"2"	8349
+"California"	"06"	"Tuesday"	"3"	8132
+"California"	"06"	"Wednesday"	"4"	8103
+"California"	"06"	"Thursday"	"5"	8065
+"California"	"06"	"Friday"	"6"	8462
+"California"	"06"	"Saturday"	"7"	8821
+"Colorado"	"08"	"Sunday"	"1"	1707
+"Colorado"	"08"	"Monday"	"2"	1532
+"Colorado"	"08"	"Tuesday"	"3"	1460
+"Colorado"	"08"	"Wednesday"	"4"	1438
+"Colorado"	"08"	"Thursday"	"5"	1481
+"Colorado"	"08"	"Friday"	"6"	1469
+"Colorado"	"08"	"Saturday"	"7"	1711
+"Connecticut"	"09"	"Sunday"	"1"	1004
+"Connecticut"	"09"	"Monday"	"2"	961
+"Connecticut"	"09"	"Tuesday"	"3"	900
+"Connecticut"	"09"	"Wednesday"	"4"	914
+"Connecticut"	"09"	"Thursday"	"5"	945
+"Connecticut"	"09"	"Friday"	"6"	1037
+"Connecticut"	"09"	"Saturday"	"7"	1193
+"Delaware"	"10"	"Sunday"	"1"	285
+"Delaware"	"10"	"Monday"	"2"	218
+"Delaware"	"10"	"Tuesday"	"3"	248
+"Delaware"	"10"	"Wednesday"	"4"	238
+"Delaware"	"10"	"Thursday"	"5"	270
+"Delaware"	"10"	"Friday"	"6"	295
+"Delaware"	"10"	"Saturday"	"7"	319
+"District of Columbia"	"11"	"Sunday"	"1"	174
+"District of Columbia"	"11"	"Monday"	"2"	175
+"District of Columbia"	"11"	"Tuesday"	"3"	185
+"District of Columbia"	"11"	"Wednesday"	"4"	168
+"District of Columbia"	"11"	"Thursday"	"5"	195
+"District of Columbia"	"11"	"Friday"	"6"	209
+"District of Columbia"	"11"	"Saturday"	"7"	218
+"Florida"	"12"	"Sunday"	"1"	6165
+"Florida"	"12"	"Monday"	"2"	5450
+"Florida"	"12"	"Tuesday"	"3"	5231
+"Florida"	"12"	"Wednesday"	"4"	5357
+"Florida"	"12"	"Thursday"	"5"	5512
+"Florida"	"12"	"Friday"	"6"	5938
+"Florida"	"12"	"Saturday"	"7"	6665
+"Georgia"	"13"	"Sunday"	"1"	2184
+"Georgia"	"13"	"Monday"	"2"	1871
+"Georgia"	"13"	"Tuesday"	"3"	1861
+"Georgia"	"13"	"Wednesday"	"4"	1842
+"Georgia"	"13"	"Thursday"	"5"	1883
+"Georgia"	"13"	"Friday"	"6"	1986
+"Georgia"	"13"	"Saturday"	"7"	2368
+"Hawaii"	"15"	"Sunday"	"1"	338
+"Hawaii"	"15"	"Monday"	"2"	286
+"Hawaii"	"15"	"Tuesday"	"3"	295
+"Hawaii"	"15"	"Wednesday"	"4"	271
+"Hawaii"	"15"	"Thursday"	"5"	265
+"Hawaii"	"15"	"Friday"	"6"	319
+"Hawaii"	"15"	"Saturday"	"7"	275
+"Idaho"	"16"	"Sunday"	"1"	344
+"Idaho"	"16"	"Monday"	"2"	305
+"Idaho"	"16"	"Tuesday"	"3"	321
+"Idaho"	"16"	"Wednesday"	"4"	350
+"Idaho"	"16"	"Thursday"	"5"	315
+"Idaho"	"16"	"Friday"	"6"	344
+"Idaho"	"16"	"Saturday"	"7"	401
+"Illinois"	"17"	"Sunday"	"1"	3259
+"Illinois"	"17"	"Monday"	"2"	2757
+"Illinois"	"17"	"Tuesday"	"3"	2795
+"Illinois"	"17"	"Wednesday"	"4"	2728
+"Illinois"	"17"	"Thursday"	"5"	2869
+"Illinois"	"17"	"Friday"	"6"	3003
+"Illinois"	"17"	"Saturday"	"7"	3534
+"Indiana"	"18"	"Sunday"	"1"	1889
+"Indiana"	"18"	"Monday"	"2"	1477
+"Indiana"	"18"	"Tuesday"	"3"	1593
+"Indiana"	"18"	"Wednesday"	"4"	1647
+"Indiana"	"18"	"Thursday"	"5"	1674
+"Indiana"	"18"	"Friday"	"6"	1752
+"Indiana"	"18"	"Saturday"	"7"	2018
+"Iowa"	"19"	"Sunday"	"1"	452
+"Iowa"	"19"	"Monday"	"2"	426
+"Iowa"	"19"	"Tuesday"	"3"	403
+"Iowa"	"19"	"Wednesday"	"4"	429
+"Iowa"	"19"	"Thursday"	"5"	415
+"Iowa"	"19"	"Friday"	"6"	421
+"Iowa"	"19"	"Saturday"	"7"	449
+"Kansas"	"20"	"Sunday"	"1"	615
+"Kansas"	"20"	"Monday"	"2"	527
+"Kansas"	"20"	"Tuesday"	"3"	546
+"Kansas"	"20"	"Wednesday"	"4"	569
+"Kansas"	"20"	"Thursday"	"5"	531
+"Kansas"	"20"	"Friday"	"6"	574
+"Kansas"	"20"	"Saturday"	"7"	625
+"Kentucky"	"21"	"Sunday"	"1"	1948
+"Kentucky"	"21"	"Monday"	"2"	1486
+"Kentucky"	"21"	"Tuesday"	"3"	1461
+"Kentucky"	"21"	"Wednesday"	"4"	1558
+"Kentucky"	"21"	"Thursday"	"5"	1748
+"Kentucky"	"21"	"Friday"	"6"	1889
+"Kentucky"	"21"	"Saturday"	"7"	2203
+"Louisiana"	"22"	"Sunday"	"1"	1509
+"Louisiana"	"22"	"Monday"	"2"	1241
+"Louisiana"	"22"	"Tuesday"	"3"	1265
+"Louisiana"	"22"	"Wednesday"	"4"	1211
+"Louisiana"	"22"	"Thursday"	"5"	1338
+"Louisiana"	"22"	"Friday"	"6"	1409
+"Louisiana"	"22"	"Saturday"	"7"	1688
+"Maine"	"23"	"Sunday"	"1"	369
+"Maine"	"23"	"Monday"	"2"	350
+"Maine"	"23"	"Tuesday"	"3"	312
+"Maine"	"23"	"Wednesday"	"4"	347
+"Maine"	"23"	"Thursday"	"5"	356
+"Maine"	"23"	"Friday"	"6"	384
+"Maine"	"23"	"Saturday"	"7"	399
+"Maryland"	"24"	"Sunday"	"1"	2063
+"Maryland"	"24"	"Monday"	"2"	1689
+"Maryland"	"24"	"Tuesday"	"3"	1619
+"Maryland"	"24"	"Wednesday"	"4"	1699
+"Maryland"	"24"	"Thursday"	"5"	1783
+"Maryland"	"24"	"Friday"	"6"	1909
+"Maryland"	"24"	"Saturday"	"7"	2191
+"Massachusetts"	"25"	"Sunday"	"1"	2161
+"Massachusetts"	"25"	"Monday"	"2"	1935
+"Massachusetts"	"25"	"Tuesday"	"3"	1849
+"Massachusetts"	"25"	"Wednesday"	"4"	1943
+"Massachusetts"	"25"	"Thursday"	"5"	1956
+"Massachusetts"	"25"	"Friday"	"6"	2232
+"Massachusetts"	"25"	"Saturday"	"7"	2448
+"Michigan"	"26"	"Sunday"	"1"	2825
+"Michigan"	"26"	"Monday"	"2"	2427
+"Michigan"	"26"	"Tuesday"	"3"	2515
+"Michigan"	"26"	"Wednesday"	"4"	2619
+"Michigan"	"26"	"Thursday"	"5"	2723
+"Michigan"	"26"	"Friday"	"6"	2825
+"Michigan"	"26"	"Saturday"	"7"	3240
+"Minnesota"	"27"	"Sunday"	"1"	899
+"Minnesota"	"27"	"Monday"	"2"	765
+"Minnesota"	"27"	"Tuesday"	"3"	811
+"Minnesota"	"27"	"Wednesday"	"4"	808
+"Minnesota"	"27"	"Thursday"	"5"	795
+"Minnesota"	"27"	"Friday"	"6"	817
+"Minnesota"	"27"	"Saturday"	"7"	885
+"Mississippi"	"28"	"Sunday"	"1"	689
+"Mississippi"	"28"	"Monday"	"2"	541
+"Mississippi"	"28"	"Tuesday"	"3"	594
+"Mississippi"	"28"	"Wednesday"	"4"	569
+"Mississippi"	"28"	"Thursday"	"5"	611
+"Mississippi"	"28"	"Friday"	"6"	622
+"Mississippi"	"28"	"Saturday"	"7"	737
+"Missouri"	"29"	"Sunday"	"1"	1823
+"Missouri"	"29"	"Monday"	"2"	1608
+"Missouri"	"29"	"Tuesday"	"3"	1598
+"Missouri"	"29"	"Wednesday"	"4"	1613
+"Missouri"	"29"	"Thursday"	"5"	1568
+"Missouri"	"29"	"Friday"	"6"	1773
+"Missouri"	"29"	"Saturday"	"7"	1986
+"Montana"	"30"	"Sunday"	"1"	305
+"Montana"	"30"	"Monday"	"2"	211
+"Montana"	"30"	"Tuesday"	"3"	210
+"Montana"	"30"	"Wednesday"	"4"	233
+"Montana"	"30"	"Thursday"	"5"	267
+"Montana"	"30"	"Friday"	"6"	250
+"Montana"	"30"	"Saturday"	"7"	272
+"Nebraska"	"31"	"Sunday"	"1"	214
+"Nebraska"	"31"	"Monday"	"2"	214
+"Nebraska"	"31"	"Tuesday"	"3"	214
+"Nebraska"	"31"	"Wednesday"	"4"	215
+"Nebraska"	"31"	"Thursday"	"5"	195
+"Nebraska"	"31"	"Friday"	"6"	220
+"Nebraska"	"31"	"Saturday"	"7"	235
+"Nevada"	"32"	"Sunday"	"1"	1101
+"Nevada"	"32"	"Monday"	"2"	1153
+"Nevada"	"32"	"Tuesday"	"3"	1049
+"Nevada"	"32"	"Wednesday"	"4"	1091
+"Nevada"	"32"	"Thursday"	"5"	1084
+"Nevada"	"32"	"Friday"	"6"	1107
+"Nevada"	"32"	"Saturday"	"7"	1196
+"New Hampshire"	"33"	"Sunday"	"1"	418
+"New Hampshire"	"33"	"Monday"	"2"	346
+"New Hampshire"	"33"	"Tuesday"	"3"	343
+"New Hampshire"	"33"	"Wednesday"	"4"	377
+"New Hampshire"	"33"	"Thursday"	"5"	377
+"New Hampshire"	"33"	"Friday"	"6"	450
+"New Hampshire"	"33"	"Saturday"	"7"	464
+"New Jersey"	"34"	"Sunday"	"1"	2241
+"New Jersey"	"34"	"Monday"	"2"	1885
+"New Jersey"	"34"	"Tuesday"	"3"	1857
+"New Jersey"	"34"	"Wednesday"	"4"	1856
+"New Jersey"	"34"	"Thursday"	"5"	1948
+"New Jersey"	"34"	"Friday"	"6"	2073
+"New Jersey"	"34"	"Saturday"	"7"	2462
+"New Mexico"	"35"	"Sunday"	"1"	1087
+"New Mexico"	"35"	"Monday"	"2"	936
+"New Mexico"	"35"	"Tuesday"	"3"	949
+"New Mexico"	"35"	"Wednesday"	"4"	934
+"New Mexico"	"35"	"Thursday"	"5"	933
+"New Mexico"	"35"	"Friday"	"6"	939
+"New Mexico"	"35"	"Saturday"	"7"	1099
+"New York"	"36"	"Sunday"	"1"	3865
+"New York"	"36"	"Monday"	"2"	3441
+"New York"	"36"	"Tuesday"	"3"	3403
+"New York"	"36"	"Wednesday"	"4"	3479
+"New York"	"36"	"Thursday"	"5"	3513
+"New York"	"36"	"Friday"	"6"	3759
+"New York"	"36"	"Saturday"	"7"	4244
+"North Carolina"	"37"	"Sunday"	"1"	2668
+"North Carolina"	"37"	"Monday"	"2"	2219
+"North Carolina"	"37"	"Tuesday"	"3"	2099
+"North Carolina"	"37"	"Wednesday"	"4"	2257
+"North Carolina"	"37"	"Thursday"	"5"	2264
+"North Carolina"	"37"	"Friday"	"6"	2367
+"North Carolina"	"37"	"Saturday"	"7"	2890
+"North Dakota"	"38"	"Sunday"	"1"	48
+"North Dakota"	"38"	"Monday"	"2"	53
+"North Dakota"	"38"	"Tuesday"	"3"	67
+"North Dakota"	"38"	"Wednesday"	"4"	52
+"North Dakota"	"38"	"Thursday"	"5"	42
+"North Dakota"	"38"	"Friday"	"6"	69
+"North Dakota"	"38"	"Saturday"	"7"	71
+"Ohio"	"39"	"Sunday"	"1"	3915
+"Ohio"	"39"	"Monday"	"2"	3333
+"Ohio"	"39"	"Tuesday"	"3"	3270
+"Ohio"	"39"	"Wednesday"	"4"	3379
+"Ohio"	"39"	"Thursday"	"5"	3612
+"Ohio"	"39"	"Friday"	"6"	4046
+"Ohio"	"39"	"Saturday"	"7"	4459
+"Oklahoma"	"40"	"Sunday"	"1"	1366
+"Oklahoma"	"40"	"Monday"	"2"	1222
+"Oklahoma"	"40"	"Tuesday"	"3"	1190
+"Oklahoma"	"40"	"Wednesday"	"4"	1239
+"Oklahoma"	"40"	"Thursday"	"5"	1315
+"Oklahoma"	"40"	"Friday"	"6"	1331
+"Oklahoma"	"40"	"Saturday"	"7"	1522
+"Oregon"	"41"	"Sunday"	"1"	1050
+"Oregon"	"41"	"Monday"	"2"	980
+"Oregon"	"41"	"Tuesday"	"3"	954
+"Oregon"	"41"	"Wednesday"	"4"	925
+"Oregon"	"41"	"Thursday"	"5"	987
+"Oregon"	"41"	"Friday"	"6"	994
+"Oregon"	"41"	"Saturday"	"7"	1028
+"Pennsylvania"	"42"	"Sunday"	"1"	4650
+"Pennsylvania"	"42"	"Monday"	"2"	3925
+"Pennsylvania"	"42"	"Tuesday"	"3"	3850
+"Pennsylvania"	"42"	"Wednesday"	"4"	3998
+"Pennsylvania"	"42"	"Thursday"	"5"	4283
+"Pennsylvania"	"42"	"Friday"	"6"	4530
+"Pennsylvania"	"42"	"Saturday"	"7"	5309
+"Rhode Island"	"44"	"Sunday"	"1"	389
+"Rhode Island"	"44"	"Monday"	"2"	393
+"Rhode Island"	"44"	"Tuesday"	"3"	392
+"Rhode Island"	"44"	"Wednesday"	"4"	344
+"Rhode Island"	"44"	"Thursday"	"5"	371
+"Rhode Island"	"44"	"Friday"	"6"	390
+"Rhode Island"	"44"	"Saturday"	"7"	432
+"South Carolina"	"45"	"Sunday"	"1"	1251
+"South Carolina"	"45"	"Monday"	"2"	1016
+"South Carolina"	"45"	"Tuesday"	"3"	993
+"South Carolina"	"45"	"Wednesday"	"4"	1063
+"South Carolina"	"45"	"Thursday"	"5"	1124
+"South Carolina"	"45"	"Friday"	"6"	1164
+"South Carolina"	"45"	"Saturday"	"7"	1407
+"South Dakota"	"46"	"Sunday"	"1"	90
+"South Dakota"	"46"	"Monday"	"2"	92
+"South Dakota"	"46"	"Tuesday"	"3"	88
+"South Dakota"	"46"	"Wednesday"	"4"	99
+"South Dakota"	"46"	"Thursday"	"5"	101
+"South Dakota"	"46"	"Friday"	"6"	102
+"South Dakota"	"46"	"Saturday"	"7"	97
+"Tennessee"	"47"	"Sunday"	"1"	2280
+"Tennessee"	"47"	"Monday"	"2"	1911
+"Tennessee"	"47"	"Tuesday"	"3"	1904
+"Tennessee"	"47"	"Wednesday"	"4"	1971
+"Tennessee"	"47"	"Thursday"	"5"	2090
+"Tennessee"	"47"	"Friday"	"6"	2201
+"Tennessee"	"47"	"Saturday"	"7"	2430
+"Texas"	"48"	"Sunday"	"1"	5144
+"Texas"	"48"	"Monday"	"2"	4675
+"Texas"	"48"	"Tuesday"	"3"	4593
+"Texas"	"48"	"Wednesday"	"4"	4377
+"Texas"	"48"	"Thursday"	"5"	4608
+"Texas"	"48"	"Friday"	"6"	4833
+"Texas"	"48"	"Saturday"	"7"	5659
+"Utah"	"49"	"Sunday"	"1"	1091
+"Utah"	"49"	"Monday"	"2"	946
+"Utah"	"49"	"Tuesday"	"3"	970
+"Utah"	"49"	"Wednesday"	"4"	1023
+"Utah"	"49"	"Thursday"	"5"	1011
+"Utah"	"49"	"Friday"	"6"	1063
+"Utah"	"49"	"Saturday"	"7"	1149
+"Vermont"	"50"	"Sunday"	"1"	148
+"Vermont"	"50"	"Monday"	"2"	114
+"Vermont"	"50"	"Tuesday"	"3"	127
+"Vermont"	"50"	"Wednesday"	"4"	129
+"Vermont"	"50"	"Thursday"	"5"	160
+"Vermont"	"50"	"Friday"	"6"	162
+"Vermont"	"50"	"Saturday"	"7"	147
+"Virginia"	"51"	"Sunday"	"1"	1729
+"Virginia"	"51"	"Monday"	"2"	1355
+"Virginia"	"51"	"Tuesday"	"3"	1408
+"Virginia"	"51"	"Wednesday"	"4"	1429
+"Virginia"	"51"	"Thursday"	"5"	1537
+"Virginia"	"51"	"Friday"	"6"	1571
+"Virginia"	"51"	"Saturday"	"7"	1902
+"Washington"	"53"	"Sunday"	"1"	2193
+"Washington"	"53"	"Monday"	"2"	1893
+"Washington"	"53"	"Tuesday"	"3"	1856
+"Washington"	"53"	"Wednesday"	"4"	1886
+"Washington"	"53"	"Thursday"	"5"	1955
+"Washington"	"53"	"Friday"	"6"	2170
+"Washington"	"53"	"Saturday"	"7"	2246
+"West Virginia"	"54"	"Sunday"	"1"	908
+"West Virginia"	"54"	"Monday"	"2"	761
+"West Virginia"	"54"	"Tuesday"	"3"	815
+"West Virginia"	"54"	"Wednesday"	"4"	861
+"West Virginia"	"54"	"Thursday"	"5"	950
+"West Virginia"	"54"	"Friday"	"6"	1009
+"West Virginia"	"54"	"Saturday"	"7"	1118
+"Wisconsin"	"55"	"Sunday"	"1"	1386
+"Wisconsin"	"55"	"Monday"	"2"	1326
+"Wisconsin"	"55"	"Tuesday"	"3"	1216
+"Wisconsin"	"55"	"Wednesday"	"4"	1240
+"Wisconsin"	"55"	"Thursday"	"5"	1271
+"Wisconsin"	"55"	"Friday"	"6"	1348
+"Wisconsin"	"55"	"Saturday"	"7"	1534
+"Wyoming"	"56"	"Sunday"	"1"	149
+"Wyoming"	"56"	"Monday"	"2"	145
+"Wyoming"	"56"	"Tuesday"	"3"	126
+"Wyoming"	"56"	"Wednesday"	"4"	137
+"Wyoming"	"56"	"Thursday"	"5"	133
+"Wyoming"	"56"	"Friday"	"6"	164
+"Wyoming"	"56"	"Saturday"	"7"	149
+

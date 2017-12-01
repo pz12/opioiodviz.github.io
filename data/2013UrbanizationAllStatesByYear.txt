@@ -1,0 +1,103 @@
+"2013 Urbanization"	"2013 Urbanization Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+"Large Central Metro"	"1"	"1999"	"1999"	7030	85881105	8.2
+"Large Central Metro"	"1"	"2000"	"2000"	6587	86605562	7.6
+"Large Central Metro"	"1"	"2001"	"2001"	6696	87669541	7.6
+"Large Central Metro"	"1"	"2002"	"2002"	8211	88263944	9.3
+"Large Central Metro"	"1"	"2003"	"2003"	8411	88760451	9.5
+"Large Central Metro"	"1"	"2004"	"2004"	8807	89243514	9.9
+"Large Central Metro"	"1"	"2005"	"2005"	9549	89762433	10.6
+"Large Central Metro"	"1"	"2006"	"2006"	10853	90218772	12.0
+"Large Central Metro"	"1"	"2007"	"2007"	11058	90936161	12.2
+"Large Central Metro"	"1"	"2008"	"2008"	10496	91828270	11.4
+"Large Central Metro"	"1"	"2009"	"2009"	10764	92817989	11.6
+"Large Central Metro"	"1"	"2010"	"2010"	10782	93505527	11.5
+"Large Central Metro"	"1"	"2011"	"2011"	11735	94698280	12.4
+"Large Central Metro"	"1"	"2012"	"2012"	12094	95794160	12.6
+"Large Central Metro"	"1"	"2013"	"2013"	12953	96739043	13.4
+"Large Central Metro"	"1"	"2014"	"2014"	13588	97933810	13.9
+"Large Central Metro"	"1"	"2015"	"2015"	15195	98997449	15.3
+"Large Fringe Metro"	"2"	"1999"	"1999"	3323	65751853	5.1
+"Large Fringe Metro"	"2"	"2000"	"2000"	3635	66611614	5.5
+"Large Fringe Metro"	"2"	"2001"	"2001"	4299	68009510	6.3
+"Large Fringe Metro"	"2"	"2002"	"2002"	5107	69050312	7.4
+"Large Fringe Metro"	"2"	"2003"	"2003"	5600	70032084	8.0
+"Large Fringe Metro"	"2"	"2004"	"2004"	5661	71022980	8.0
+"Large Fringe Metro"	"2"	"2005"	"2005"	6327	71989227	8.8
+"Large Fringe Metro"	"2"	"2006"	"2006"	7598	72929376	10.4
+"Large Fringe Metro"	"2"	"2007"	"2007"	7928	73833666	10.7
+"Large Fringe Metro"	"2"	"2008"	"2008"	8340	74696904	11.2
+"Large Fringe Metro"	"2"	"2009"	"2009"	8374	75443249	11.1
+"Large Fringe Metro"	"2"	"2010"	"2010"	8848	76007372	11.6
+"Large Fringe Metro"	"2"	"2011"	"2011"	9777	76806991	12.7
+"Large Fringe Metro"	"2"	"2012"	"2012"	10025	77488865	12.9
+"Large Fringe Metro"	"2"	"2013"	"2013"	10699	78203382	13.7
+"Large Fringe Metro"	"2"	"2014"	"2014"	11585	79063551	14.7
+"Large Fringe Metro"	"2"	"2015"	"2015"	12948	79867097	16.2
+"Medium Metro"	"3"	"1999"	"1999"	3336	56973246	5.9
+"Medium Metro"	"3"	"2000"	"2000"	3624	57448175	6.3
+"Medium Metro"	"3"	"2001"	"2001"	4042	58236589	6.9
+"Medium Metro"	"3"	"2002"	"2002"	5003	58899471	8.5
+"Medium Metro"	"3"	"2003"	"2003"	5677	59518143	9.5
+"Medium Metro"	"3"	"2004"	"2004"	6150	60262728	10.2
+"Medium Metro"	"3"	"2005"	"2005"	6667	61023918	10.9
+"Medium Metro"	"3"	"2006"	"2006"	7520	61872916	12.2
+"Medium Metro"	"3"	"2007"	"2007"	7891	62622069	12.6
+"Medium Metro"	"3"	"2008"	"2008"	8260	63295790	13.0
+"Medium Metro"	"3"	"2009"	"2009"	8347	63900907	13.1
+"Medium Metro"	"3"	"2010"	"2010"	8791	64369293	13.7
+"Medium Metro"	"3"	"2011"	"2011"	9138	64998427	14.1
+"Medium Metro"	"3"	"2012"	"2012"	8983	65473964	13.7
+"Medium Metro"	"3"	"2013"	"2013"	9538	65931102	14.5
+"Medium Metro"	"3"	"2014"	"2014"	10409	66466520	15.7
+"Medium Metro"	"3"	"2015"	"2015"	11896	67041154	17.7
+"Small Metro"	"4"	"1999"	"1999"	1106	25814990	4.3
+"Small Metro"	"4"	"2000"	"2000"	1211	25972445	4.7
+"Small Metro"	"4"	"2001"	"2001"	1487	26212626	5.7
+"Small Metro"	"4"	"2002"	"2002"	1786	26452065	6.8
+"Small Metro"	"4"	"2003"	"2003"	2139	26683255	8.0
+"Small Metro"	"4"	"2004"	"2004"	2348	26981411	8.7
+"Small Metro"	"4"	"2005"	"2005"	2533	27264357	9.3
+"Small Metro"	"4"	"2006"	"2006"	2939	27620560	10.6
+"Small Metro"	"4"	"2007"	"2007"	3226	27908721	11.6
+"Small Metro"	"4"	"2008"	"2008"	3257	28175556	11.6
+"Small Metro"	"4"	"2009"	"2009"	3396	28411226	12.0
+"Small Metro"	"4"	"2010"	"2010"	3505	28569940	12.3
+"Small Metro"	"4"	"2011"	"2011"	3856	28766906	13.4
+"Small Metro"	"4"	"2012"	"2012"	3804	28907451	13.2
+"Small Metro"	"4"	"2013"	"2013"	4005	29037715	13.8
+"Small Metro"	"4"	"2014"	"2014"	4358	29204061	14.9
+"Small Metro"	"4"	"2015"	"2015"	4691	29346517	16.0
+"Micropolitan (non-metro)"	"5"	"1999"	"1999"	1024	25800983	4.0
+"Micropolitan (non-metro)"	"5"	"2000"	"2000"	1153	25909513	4.5
+"Micropolitan (non-metro)"	"5"	"2001"	"2001"	1427	25994665	5.5
+"Micropolitan (non-metro)"	"5"	"2002"	"2002"	1730	26095889	6.6
+"Micropolitan (non-metro)"	"5"	"2003"	"2003"	2067	26209837	7.9
+"Micropolitan (non-metro)"	"5"	"2004"	"2004"	2365	26349928	9.0
+"Micropolitan (non-metro)"	"5"	"2005"	"2005"	2479	26488944	9.4
+"Micropolitan (non-metro)"	"5"	"2006"	"2006"	3043	26685012	11.4
+"Micropolitan (non-metro)"	"5"	"2007"	"2007"	3147	26835535	11.7
+"Micropolitan (non-metro)"	"5"	"2008"	"2008"	3267	26973330	12.1
+"Micropolitan (non-metro)"	"5"	"2009"	"2009"	3331	27076143	12.3
+"Micropolitan (non-metro)"	"5"	"2010"	"2010"	3429	27154213	12.6
+"Micropolitan (non-metro)"	"5"	"2011"	"2011"	3801	27214415	14.0
+"Micropolitan (non-metro)"	"5"	"2012"	"2012"	3677	27216731	13.5
+"Micropolitan (non-metro)"	"5"	"2013"	"2013"	3784	27220343	13.9
+"Micropolitan (non-metro)"	"5"	"2014"	"2014"	4093	27242864	15.0
+"Micropolitan (non-metro)"	"5"	"2015"	"2015"	4481	27260617	16.4
+"NonCore (non-metro)"	"6"	"1999"	"1999"	651	18817991	3.5
+"NonCore (non-metro)"	"6"	"2000"	"2000"	779	18874597	4.1
+"NonCore (non-metro)"	"6"	"2001"	"2001"	967	18846024	5.1
+"NonCore (non-metro)"	"6"	"2002"	"2002"	1189	18863512	6.3
+"NonCore (non-metro)"	"6"	"2003"	"2003"	1384	18904163	7.3
+"NonCore (non-metro)"	"6"	"2004"	"2004"	1591	18944737	8.4
+"NonCore (non-metro)"	"6"	"2005"	"2005"	1718	18987720	9.0
+"NonCore (non-metro)"	"6"	"2006"	"2006"	1957	19053276	10.3
+"NonCore (non-metro)"	"6"	"2007"	"2007"	2172	19095055	11.4
+"NonCore (non-metro)"	"6"	"2008"	"2008"	2217	19124116	11.6
+"NonCore (non-metro)"	"6"	"2009"	"2009"	2327	19122015	12.2
+"NonCore (non-metro)"	"6"	"2010"	"2010"	2517	19139193	13.2
+"NonCore (non-metro)"	"6"	"2011"	"2011"	2613	19106898	13.7
+"NonCore (non-metro)"	"6"	"2012"	"2012"	2502	19032869	13.1
+"NonCore (non-metro)"	"6"	"2013"	"2013"	2583	18997254	13.6
+"NonCore (non-metro)"	"6"	"2014"	"2014"	2625	18946250	13.9
+"NonCore (non-metro)"	"6"	"2015"	"2015"	2804	18905986	14.8

@@ -1,0 +1,9 @@
+"Weekday"	"Weekday Code"	Deaths
+"Sunday"	"1"	85463
+"Monday"	"2"	74719
+"Tuesday"	"3"	73698
+"Wednesday"	"4"	74699
+"Thursday"	"5"	77378
+"Friday"	"6"	82145
+"Saturday"	"7"	92455
+

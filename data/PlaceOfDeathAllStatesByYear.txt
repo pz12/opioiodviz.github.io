@@ -1,0 +1,154 @@
+"Year"	"Year Code"	"Place of Death"	"Place of Death Code"	Deaths	Population	Crude Rate
+"1999"	"1999"	"Medical Facility - Inpatient"	"1"	1935	Not Applicable	Not Applicable
+"1999"	"1999"	"Medical Facility - Outpatient or ER"	"2"	2673	Not Applicable	Not Applicable
+"1999"	"1999"	"Medical Facility - Dead on Arrival"	"3"	892	Not Applicable	Not Applicable
+"1999"	"1999"	"Medical Facility - Status unknown"	"10"	57	Not Applicable	Not Applicable
+"1999"	"1999"	"Decedent's home"	"4"	7511	Not Applicable	Not Applicable
+"1999"	"1999"	"Hospice facility"	"5"	Missing	Missing	Missing
+"1999"	"1999"	"Nursing home/long term care"	"6"	97	Not Applicable	Not Applicable
+"1999"	"1999"	"Other"	"7"	3295	Not Applicable	Not Applicable
+"1999"	"1999"	"Place of death unknown"	"9"	10	Not Applicable	Not Applicable
+"2000"	"2000"	"Medical Facility - Inpatient"	"1"	1917	Not Applicable	Not Applicable
+"2000"	"2000"	"Medical Facility - Outpatient or ER"	"2"	2756	Not Applicable	Not Applicable
+"2000"	"2000"	"Medical Facility - Dead on Arrival"	"3"	1004	Not Applicable	Not Applicable
+"2000"	"2000"	"Medical Facility - Status unknown"	"10"	52	Not Applicable	Not Applicable
+"2000"	"2000"	"Decedent's home"	"4"	7834	Not Applicable	Not Applicable
+"2000"	"2000"	"Hospice facility"	"5"	Missing	Missing	Missing
+"2000"	"2000"	"Nursing home/long term care"	"6"	85	Not Applicable	Not Applicable
+"2000"	"2000"	"Other"	"7"	3328	Not Applicable	Not Applicable
+"2000"	"2000"	"Place of death unknown"	"9"	13	Not Applicable	Not Applicable
+"2001"	"2001"	"Medical Facility - Inpatient"	"1"	2058	Not Applicable	Not Applicable
+"2001"	"2001"	"Medical Facility - Outpatient or ER"	"2"	3071	Not Applicable	Not Applicable
+"2001"	"2001"	"Medical Facility - Dead on Arrival"	"3"	1032	Not Applicable	Not Applicable
+"2001"	"2001"	"Medical Facility - Status unknown"	"10"	76	Not Applicable	Not Applicable
+"2001"	"2001"	"Decedent's home"	"4"	8967	Not Applicable	Not Applicable
+"2001"	"2001"	"Hospice facility"	"5"	Missing	Missing	Missing
+"2001"	"2001"	"Nursing home/long term care"	"6"	88	Not Applicable	Not Applicable
+"2001"	"2001"	"Other"	"7"	3618	Not Applicable	Not Applicable
+"2001"	"2001"	"Place of death unknown"	"9"	8	Not Applicable	Not Applicable
+"2002"	"2002"	"Medical Facility - Inpatient"	"1"	2339	Not Applicable	Not Applicable
+"2002"	"2002"	"Medical Facility - Outpatient or ER"	"2"	3843	Not Applicable	Not Applicable
+"2002"	"2002"	"Medical Facility - Dead on Arrival"	"3"	1062	Not Applicable	Not Applicable
+"2002"	"2002"	"Medical Facility - Status unknown"	"10"	67	Not Applicable	Not Applicable
+"2002"	"2002"	"Decedent's home"	"4"	11143	Not Applicable	Not Applicable
+"2002"	"2002"	"Hospice facility"	"5"	Missing	Missing	Missing
+"2002"	"2002"	"Nursing home/long term care"	"6"	92	Not Applicable	Not Applicable
+"2002"	"2002"	"Other"	"7"	4465	Not Applicable	Not Applicable
+"2002"	"2002"	"Place of death unknown"	"9"	15	Not Applicable	Not Applicable
+"2003"	"2003"	"Medical Facility - Inpatient"	"1"	2513	Not Applicable	Not Applicable
+"2003"	"2003"	"Medical Facility - Outpatient or ER"	"2"	4186	Not Applicable	Not Applicable
+"2003"	"2003"	"Medical Facility - Dead on Arrival"	"3"	1088	Not Applicable	Not Applicable
+"2003"	"2003"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2003"	"2003"	"Decedent's home"	"4"	12676	Not Applicable	Not Applicable
+"2003"	"2003"	"Hospice facility"	"5"	0	Not Applicable	Not Applicable
+"2003"	"2003"	"Nursing home/long term care"	"6"	99	Not Applicable	Not Applicable
+"2003"	"2003"	"Other"	"7"	4650	Not Applicable	Not Applicable
+"2003"	"2003"	"Place of death unknown"	"9"	66	Not Applicable	Not Applicable
+"2004"	"2004"	"Medical Facility - Inpatient"	"1"	2623	Not Applicable	Not Applicable
+"2004"	"2004"	"Medical Facility - Outpatient or ER"	"2"	4235	Not Applicable	Not Applicable
+"2004"	"2004"	"Medical Facility - Dead on Arrival"	"3"	1177	Not Applicable	Not Applicable
+"2004"	"2004"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2004"	"2004"	"Decedent's home"	"4"	13867	Not Applicable	Not Applicable
+"2004"	"2004"	"Hospice facility"	"5"	8	Not Applicable	Not Applicable
+"2004"	"2004"	"Nursing home/long term care"	"6"	125	Not Applicable	Not Applicable
+"2004"	"2004"	"Other"	"7"	4823	Not Applicable	Not Applicable
+"2004"	"2004"	"Place of death unknown"	"9"	64	Not Applicable	Not Applicable
+"2005"	"2005"	"Medical Facility - Inpatient"	"1"	2637	Not Applicable	Not Applicable
+"2005"	"2005"	"Medical Facility - Outpatient or ER"	"2"	4794	Not Applicable	Not Applicable
+"2005"	"2005"	"Medical Facility - Dead on Arrival"	"3"	1146	Not Applicable	Not Applicable
+"2005"	"2005"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2005"	"2005"	"Decedent's home"	"4"	15063	Not Applicable	Not Applicable
+"2005"	"2005"	"Hospice facility"	"5"	20	Not Applicable	Not Applicable
+"2005"	"2005"	"Nursing home/long term care"	"6"	132	Not Applicable	Not Applicable
+"2005"	"2005"	"Other"	"7"	5350	Not Applicable	Not Applicable
+"2005"	"2005"	"Place of death unknown"	"9"	131	Not Applicable	Not Applicable
+"2006"	"2006"	"Medical Facility - Inpatient"	"1"	3114	Not Applicable	Not Applicable
+"2006"	"2006"	"Medical Facility - Outpatient or ER"	"2"	5518	Not Applicable	Not Applicable
+"2006"	"2006"	"Medical Facility - Dead on Arrival"	"3"	1384	Not Applicable	Not Applicable
+"2006"	"2006"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2006"	"2006"	"Decedent's home"	"4"	17394	Not Applicable	Not Applicable
+"2006"	"2006"	"Hospice facility"	"5"	37	Not Applicable	Not Applicable
+"2006"	"2006"	"Nursing home/long term care"	"6"	120	Not Applicable	Not Applicable
+"2006"	"2006"	"Other"	"7"	6197	Not Applicable	Not Applicable
+"2006"	"2006"	"Place of death unknown"	"9"	146	Not Applicable	Not Applicable
+"2007"	"2007"	"Medical Facility - Inpatient"	"1"	3508	Not Applicable	Not Applicable
+"2007"	"2007"	"Medical Facility - Outpatient or ER"	"2"	5291	Not Applicable	Not Applicable
+"2007"	"2007"	"Medical Facility - Dead on Arrival"	"3"	1104	Not Applicable	Not Applicable
+"2007"	"2007"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2007"	"2007"	"Decedent's home"	"4"	18706	Not Applicable	Not Applicable
+"2007"	"2007"	"Hospice facility"	"5"	63	Not Applicable	Not Applicable
+"2007"	"2007"	"Nursing home/long term care"	"6"	145	Not Applicable	Not Applicable
+"2007"	"2007"	"Other"	"7"	6488	Not Applicable	Not Applicable
+"2007"	"2007"	"Place of death unknown"	"9"	117	Not Applicable	Not Applicable
+"2008"	"2008"	"Medical Facility - Inpatient"	"1"	3383	Not Applicable	Not Applicable
+"2008"	"2008"	"Medical Facility - Outpatient or ER"	"2"	5022	Not Applicable	Not Applicable
+"2008"	"2008"	"Medical Facility - Dead on Arrival"	"3"	1008	Not Applicable	Not Applicable
+"2008"	"2008"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2008"	"2008"	"Decedent's home"	"4"	19205	Not Applicable	Not Applicable
+"2008"	"2008"	"Hospice facility"	"5"	64	Not Applicable	Not Applicable
+"2008"	"2008"	"Nursing home/long term care"	"6"	175	Not Applicable	Not Applicable
+"2008"	"2008"	"Other"	"7"	6289	Not Applicable	Not Applicable
+"2008"	"2008"	"Place of death unknown"	"9"	691	Not Applicable	Not Applicable
+"2009"	"2009"	"Medical Facility - Inpatient"	"1"	3346	Not Applicable	Not Applicable
+"2009"	"2009"	"Medical Facility - Outpatient or ER"	"2"	5316	Not Applicable	Not Applicable
+"2009"	"2009"	"Medical Facility - Dead on Arrival"	"3"	809	Not Applicable	Not Applicable
+"2009"	"2009"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2009"	"2009"	"Decedent's home"	"4"	19564	Not Applicable	Not Applicable
+"2009"	"2009"	"Hospice facility"	"5"	62	Not Applicable	Not Applicable
+"2009"	"2009"	"Nursing home/long term care"	"6"	154	Not Applicable	Not Applicable
+"2009"	"2009"	"Other"	"7"	6295	Not Applicable	Not Applicable
+"2009"	"2009"	"Place of death unknown"	"9"	993	Not Applicable	Not Applicable
+"2010"	"2010"	"Medical Facility - Inpatient"	"1"	3643	Not Applicable	Not Applicable
+"2010"	"2010"	"Medical Facility - Outpatient or ER"	"2"	5676	Not Applicable	Not Applicable
+"2010"	"2010"	"Medical Facility - Dead on Arrival"	"3"	849	Not Applicable	Not Applicable
+"2010"	"2010"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2010"	"2010"	"Decedent's home"	"4"	20761	Not Applicable	Not Applicable
+"2010"	"2010"	"Hospice facility"	"5"	81	Not Applicable	Not Applicable
+"2010"	"2010"	"Nursing home/long term care"	"6"	123	Not Applicable	Not Applicable
+"2010"	"2010"	"Other"	"7"	6710	Not Applicable	Not Applicable
+"2010"	"2010"	"Place of death unknown"	"9"	29	Not Applicable	Not Applicable
+"2011"	"2011"	"Medical Facility - Inpatient"	"1"	4167	Not Applicable	Not Applicable
+"2011"	"2011"	"Medical Facility - Outpatient or ER"	"2"	6082	Not Applicable	Not Applicable
+"2011"	"2011"	"Medical Facility - Dead on Arrival"	"3"	967	Not Applicable	Not Applicable
+"2011"	"2011"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2011"	"2011"	"Decedent's home"	"4"	22142	Not Applicable	Not Applicable
+"2011"	"2011"	"Hospice facility"	"5"	92	Not Applicable	Not Applicable
+"2011"	"2011"	"Nursing home/long term care"	"6"	114	Not Applicable	Not Applicable
+"2011"	"2011"	"Other"	"7"	7314	Not Applicable	Not Applicable
+"2011"	"2011"	"Place of death unknown"	"9"	42	Not Applicable	Not Applicable
+"2012"	"2012"	"Medical Facility - Inpatient"	"1"	3972	Not Applicable	Not Applicable
+"2012"	"2012"	"Medical Facility - Outpatient or ER"	"2"	6011	Not Applicable	Not Applicable
+"2012"	"2012"	"Medical Facility - Dead on Arrival"	"3"	914	Not Applicable	Not Applicable
+"2012"	"2012"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2012"	"2012"	"Decedent's home"	"4"	22524	Not Applicable	Not Applicable
+"2012"	"2012"	"Hospice facility"	"5"	119	Not Applicable	Not Applicable
+"2012"	"2012"	"Nursing home/long term care"	"6"	118	Not Applicable	Not Applicable
+"2012"	"2012"	"Other"	"7"	7383	Not Applicable	Not Applicable
+"2012"	"2012"	"Place of death unknown"	"9"	44	Not Applicable	Not Applicable
+"2013"	"2013"	"Medical Facility - Inpatient"	"1"	4337	Not Applicable	Not Applicable
+"2013"	"2013"	"Medical Facility - Outpatient or ER"	"2"	6327	Not Applicable	Not Applicable
+"2013"	"2013"	"Medical Facility - Dead on Arrival"	"3"	891	Not Applicable	Not Applicable
+"2013"	"2013"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2013"	"2013"	"Decedent's home"	"4"	23477	Not Applicable	Not Applicable
+"2013"	"2013"	"Hospice facility"	"5"	142	Not Applicable	Not Applicable
+"2013"	"2013"	"Nursing home/long term care"	"6"	114	Not Applicable	Not Applicable
+"2013"	"2013"	"Other"	"7"	8236	Not Applicable	Not Applicable
+"2013"	"2013"	"Place of death unknown"	"9"	38	Not Applicable	Not Applicable
+"2014"	"2014"	"Medical Facility - Inpatient"	"1"	4651	Not Applicable	Not Applicable
+"2014"	"2014"	"Medical Facility - Outpatient or ER"	"2"	6599	Not Applicable	Not Applicable
+"2014"	"2014"	"Medical Facility - Dead on Arrival"	"3"	954	Not Applicable	Not Applicable
+"2014"	"2014"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2014"	"2014"	"Decedent's home"	"4"	24938	Not Applicable	Not Applicable
+"2014"	"2014"	"Hospice facility"	"5"	167	Not Applicable	Not Applicable
+"2014"	"2014"	"Nursing home/long term care"	"6"	136	Not Applicable	Not Applicable
+"2014"	"2014"	"Other"	"7"	9114	Not Applicable	Not Applicable
+"2014"	"2014"	"Place of death unknown"	"9"	99	Not Applicable	Not Applicable
+"2015"	"2015"	"Medical Facility - Inpatient"	"1"	5489	Not Applicable	Not Applicable
+"2015"	"2015"	"Medical Facility - Outpatient or ER"	"2"	7287	Not Applicable	Not Applicable
+"2015"	"2015"	"Medical Facility - Dead on Arrival"	"3"	998	Not Applicable	Not Applicable
+"2015"	"2015"	"Medical Facility - Status unknown"	"10"	Missing	Missing	Missing
+"2015"	"2015"	"Decedent's home"	"4"	27136	Not Applicable	Not Applicable
+"2015"	"2015"	"Hospice facility"	"5"	176	Not Applicable	Not Applicable
+"2015"	"2015"	"Nursing home/long term care"	"6"	136	Not Applicable	Not Applicable
+"2015"	"2015"	"Other"	"7"	10741	Not Applicable	Not Applicable
+"2015"	"2015"	"Place of death unknown"	"9"	52	Not Applicable	Not Applicable

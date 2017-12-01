@@ -1,0 +1,206 @@
+#USmap {
+  position:absolute;
+  top:180px;
+  left:10px;
+}
+#daysOfWeek {
+  position:absolute;
+  margin-left: 960px;
+  top:475px;
+}
+#daysOfWeekHeader {
+  position:absolute;
+  left: 1040px;
+  top: 430px;
+}
+#daysOfWeeksub {
+  position:absolute;
+  left: 1040px;
+  top: 455px;
+  margin-bottom: 30px;
+}
+.text {
+  font-family: sans-serif;
+}
+
+#title {
+  margin-top:0px;
+}
+#names {
+  margin-top:-10px;
+  margin-bottom: 15px;
+}
+
+/*http://danielstern.ca/range.css/#/*/
+input[type=range] {
+  -webkit-appearance: none;
+  width: 822px;
+  margin: 4.4px 0;
+  padding-left: 5px;
+}
+input[type=range]:focus {
+  outline: none;
+}
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 12.2px;
+  cursor: pointer;
+  box-shadow: 0.5px 0.5px 0.4px #000000, 0px 0px 0.5px #0d0d0d;
+  background: #929190;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 0.5px 0.5px 0.5px #000000, 0px 0px 0.5px #0d0d0d;
+  border: 0.3px solid #000000;
+  height: 21px;
+  width: 21px;
+  border-radius: 5px;
+  background: #ffffff;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -4.6px;
+
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #b8b7b7;
+}
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 12.2px;
+  cursor: pointer;
+  box-shadow: 0.5px 0.5px 0.4px #000000, 0px 0px 0.5px #0d0d0d;
+  background: #929190;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+input[type=range]::-moz-range-thumb {
+  box-shadow: 0.5px 0.5px 0.5px #000000, 0px 0px 0.5px #0d0d0d;
+  border: 0.3px solid #000000;
+  height: 21px;
+  width: 21px;
+  border-radius: 5px;
+  background: #ffffff;
+  cursor: pointer;
+}
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 12.2px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+  background: #6c6b6a;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 0.5px 0.5px 0.4px #000000, 0px 0px 0.5px #0d0d0d;
+}
+input[type=range]::-ms-fill-upper {
+  background: #929190;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 0.5px 0.5px 0.4px #000000, 0px 0px 0.5px #0d0d0d;
+}
+input[type=range]::-ms-thumb {
+  box-shadow: 0.5px 0.5px 0.5px #000000, 0px 0px 0.5px #0d0d0d;
+  border: 0.3px solid #000000;
+  height: 21px;
+  width: 21px;
+  border-radius: 5px;
+  background: #ffffff;
+  cursor: pointer;
+  height: 12.2px;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: #929190;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: #b8b7b7;
+}
+
+#play_button, #pause_button {
+  width:20px;
+  height:20px;
+  margin-bottom: 5px;
+}
+#play_button:hover, #pause_button:hover {
+  cursor: pointer;
+}
+
+/*https://codepen.io/trevanhetzel/pen/rOVrGK*/
+.range-labels {
+  margin: 0px -10px 0;
+  padding: 0;
+  list-style: none;
+}
+.range-labels li {
+    position: relative;
+    float: left;
+    width: 50px;
+    text-align: center;
+    color: #4d4b4b;
+    font-size: 16px;
+    font-family: sans-serif;
+    cursor: pointer;
+  }
+.range-labels::before {
+  position: absolute;
+  top: -25px;
+  right: 0;
+  left: 0;
+  content: "";
+  margin: 0 auto;
+  width: 9px;
+  height: 9px;
+  background: #b2b2b2;
+  border-radius: 50%;
+}
+
+.tooltip-title{
+    font-size:18px;
+    font-family: "Arial Black";
+}
+
+
+.USmapLegendText {
+  font-family: "sans serif";
+}
+
+.tile {
+  cursor: pointer;
+}
+.activeState {
+  transition: fill ease-in-out .15s, fill ease-in-out .15s;
+  fill: blue;
+}
+
+#allStates {
+  position:absolute;
+  margin-left: 150px;
+  top: 40px;
+  background-color: #61bd5e;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border: gray 2px solid;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 300;
+  margin-top: 10px;
+  margin-right: 10px;
+  outline:0;
+  width: 100px;
+  height: 30px;
+  padding: 0;
+}
+
+#allStates:hover {
+  cursor:pointer;
+}
+
+#buttonWrapper {
+  bottom:10px;
+  height: 100px;
+}

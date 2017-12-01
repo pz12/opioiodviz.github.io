@@ -1,0 +1,3 @@
+"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+"Female"	"F"	210255	2599795280	8.1
+"Male"	"M"	350441	2512823596	13.9

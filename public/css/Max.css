@@ -1,0 +1,17 @@
+#gender {
+  position:absolute;
+  left: 1300px;
+  top:105px;
+}
+
+#genderTitle {
+  position:absolute;
+  left: 1410px;
+  top: 55px;
+}
+
+#genderTitlesub {
+  position:absolute;
+  left: 1375px;
+  top: 80px;
+}

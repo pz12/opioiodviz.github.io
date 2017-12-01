@@ -1,0 +1,5 @@
+"Race"	"Race Code"	Deaths	Population	Crude Rate
+"American Indian or Alaska Native"	"1002-5"	6227	64619414	9.6
+"Asian or Pacific Islander"	"A-PI"	5044	264386329	1.9
+"Black or African American"	"2054-5"	56537	687800625	8.2
+"White"	"2106-3"	492888	4095812508	12.0

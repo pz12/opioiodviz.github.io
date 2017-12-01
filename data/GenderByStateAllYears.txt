@@ -1,0 +1,103 @@
+"State"	"State Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+"Alabama"	"01"	"Female"	"F"	3127	40817084	7.7
+"Alabama"	"01"	"Male"	"M"	4173	38336447	10.9
+"Alaska"	"02"	"Female"	"F"	638	5576479	11.4
+"Alaska"	"02"	"Male"	"M"	897	6042575	14.8
+"Arizona"	"04"	"Female"	"F"	5735	51357896	11.2
+"Arizona"	"04"	"Male"	"M"	9164	50902424	18.0
+"Arkansas"	"05"	"Female"	"F"	2009	24540426	8.2
+"Arkansas"	"05"	"Male"	"M"	2591	23586713	11.0
+"California"	"06"	"Female"	"F"	21864	310765448	7.0
+"California"	"06"	"Male"	"M"	36725	307716599	11.9
+"Colorado"	"08"	"Female"	"F"	4452	40807583	10.9
+"Colorado"	"08"	"Male"	"M"	6346	41172019	15.4
+"Connecticut"	"09"	"Female"	"F"	2206	30749290	7.2
+"Connecticut"	"09"	"Male"	"M"	4749	29102558	16.3
+"Delaware"	"10"	"Female"	"F"	708	7568461	9.4
+"Delaware"	"10"	"Male"	"M"	1165	7122032	16.4
+"District of Columbia"	"11"	"Female"	"F"	428	5350921	8.0
+"District of Columbia"	"11"	"Male"	"M"	896	4789566	18.7
+"Florida"	"12"	"Female"	"F"	15072	157296044	9.6
+"Florida"	"12"	"Male"	"M"	25246	150362162	16.8
+"Georgia"	"13"	"Female"	"F"	5780	80032070	7.2
+"Georgia"	"13"	"Male"	"M"	8216	76762277	10.7
+"Hawaii"	"15"	"Female"	"F"	628	11139975	5.6
+"Hawaii"	"15"	"Male"	"M"	1421	11251853	12.6
+"Idaho"	"16"	"Female"	"F"	1154	12534222	9.2
+"Idaho"	"16"	"Male"	"M"	1226	12591520	9.7
+"Illinois"	"17"	"Female"	"F"	6622	109883470	6.0
+"Illinois"	"17"	"Male"	"M"	14323	105746017	13.5
+"Indiana"	"18"	"Female"	"F"	4722	54915764	8.6
+"Indiana"	"18"	"Male"	"M"	7328	53123572	13.8
+"Iowa"	"19"	"Female"	"F"	1287	25871605	5.0
+"Iowa"	"19"	"Male"	"M"	1708	25234423	6.8
+"Kansas"	"20"	"Female"	"F"	1736	23945573	7.2
+"Kansas"	"20"	"Male"	"M"	2251	23546932	9.6
+"Kentucky"	"21"	"Female"	"F"	4693	36685684	12.8
+"Kentucky"	"21"	"Male"	"M"	7600	35384003	21.5
+"Louisiana"	"22"	"Female"	"F"	3492	39380356	8.9
+"Louisiana"	"22"	"Male"	"M"	6169	37435932	16.5
+"Maine"	"23"	"Female"	"F"	933	11426117	8.2
+"Maine"	"23"	"Male"	"M"	1584	10920472	14.5
+"Maryland"	"24"	"Female"	"F"	4082	49633215	8.2
+"Maryland"	"24"	"Male"	"M"	8871	46462597	19.1
+"Massachusetts"	"25"	"Female"	"F"	4584	57106665	8.0
+"Massachusetts"	"25"	"Male"	"M"	9940	53454939	18.6
+"Michigan"	"26"	"Female"	"F"	7644	86174039	8.9
+"Michigan"	"26"	"Male"	"M"	11530	83073062	13.9
+"Minnesota"	"27"	"Female"	"F"	2268	44509511	5.1
+"Minnesota"	"27"	"Male"	"M"	3512	43840114	8.0
+"Mississippi"	"28"	"Female"	"F"	1824	25604896	7.1
+"Mississippi"	"28"	"Male"	"M"	2539	24091372	10.5
+"Missouri"	"29"	"Female"	"F"	4680	50896041	9.2
+"Missouri"	"29"	"Male"	"M"	7289	48652884	15.0
+"Montana"	"30"	"Female"	"F"	814	8160776	10.0
+"Montana"	"30"	"Male"	"M"	934	8189538	11.4
+"Nebraska"	"31"	"Female"	"F"	735	15361506	4.8
+"Nebraska"	"31"	"Male"	"M"	772	15088069	5.1
+"Nevada"	"32"	"Female"	"F"	3195	20950798	15.3
+"Nevada"	"32"	"Male"	"M"	4586	21446491	21.4
+"New Hampshire"	"33"	"Female"	"F"	996	11169041	8.9
+"New Hampshire"	"33"	"Male"	"M"	1780	10871017	16.4
+"New Jersey"	"34"	"Female"	"F"	4295	75865324	5.7
+"New Jersey"	"34"	"Male"	"M"	10027	71921291	13.9
+"New Mexico"	"35"	"Female"	"F"	2472	16965660	14.6
+"New Mexico"	"35"	"Male"	"M"	4405	16544703	26.6
+"New York"	"36"	"Female"	"F"	8010	169325749	4.7
+"New York"	"36"	"Male"	"M"	17697	158597360	11.2
+"North Carolina"	"37"	"Female"	"F"	6722	78751767	8.5
+"North Carolina"	"37"	"Male"	"M"	10042	75037395	13.4
+"North Dakota"	"38"	"Female"	"F"	162	5643202	2.9
+"North Dakota"	"38"	"Male"	"M"	240	5750832	4.2
+"Ohio"	"39"	"Female"	"F"	9619	100050249	9.6
+"Ohio"	"39"	"Male"	"M"	16403	95214039	17.2
+"Oklahoma"	"40"	"Female"	"F"	3977	31388737	12.7
+"Oklahoma"	"40"	"Male"	"M"	5208	30646589	17.0
+"Oregon"	"41"	"Female"	"F"	2854	31814480	9.0
+"Oregon"	"41"	"Male"	"M"	4064	31214477	13.0
+"Pennsylvania"	"42"	"Female"	"F"	10269	109618777	9.4
+"Pennsylvania"	"42"	"Male"	"M"	20276	103717656	19.5
+"Rhode Island"	"44"	"Female"	"F"	900	9298919	9.7
+"Rhode Island"	"44"	"Male"	"M"	1811	8672979	20.9
+"South Carolina"	"45"	"Female"	"F"	3514	38655223	9.1
+"South Carolina"	"45"	"Male"	"M"	4550	36588238	12.4
+"South Dakota"	"46"	"Female"	"F"	319	6778082	4.7
+"South Dakota"	"46"	"Male"	"M"	350	6763768	5.2
+"Tennessee"	"47"	"Female"	"F"	6285	53464137	11.8
+"Tennessee"	"47"	"Male"	"M"	8502	50829490	16.7
+"Texas"	"48"	"Female"	"F"	13008	204305726	6.4
+"Texas"	"48"	"Male"	"M"	20881	201373411	10.4
+"Utah"	"49"	"Female"	"F"	2974	21932072	13.6
+"Utah"	"49"	"Male"	"M"	4279	22118335	19.3
+"Vermont"	"50"	"Female"	"F"	390	5360032	7.3
+"Vermont"	"50"	"Male"	"M"	676	5192894	13.0
+"Virginia"	"51"	"Female"	"F"	4165	66921737	6.2
+"Virginia"	"51"	"Male"	"M"	6766	64499184	10.5
+"Washington"	"53"	"Female"	"F"	5709	55194406	10.3
+"Washington"	"53"	"Male"	"M"	8490	54837289	15.5
+"West Virginia"	"54"	"Female"	"F"	2374	15852558	15.0
+"West Virginia"	"54"	"Male"	"M"	4048	15286283	26.5
+"Wisconsin"	"55"	"Female"	"F"	3662	47902506	7.6
+"Wisconsin"	"55"	"Male"	"M"	5659	47080682	12.0
+"Wyoming"	"56"	"Female"	"F"	467	4494981	10.4
+"Wyoming"	"56"	"Male"	"M"	536	4636522	11.6

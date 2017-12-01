@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+      <meta charset="UTF-8">
+      <title>Opioid Epidemic: Drug Overdoses in the USA from 1999-2016</title>
+      <script src="https://d3js.org/d3.v4.js"></script>
+      <!-- <script src="d3.slider.js"></script> -->
+      <script type="text/javascript" src="bower_components/d3-tip/index.js"></script>
+      <link rel="stylesheet" href="public/css/styles.css"/>
+      <link rel="stylesheet" href="public/css/Fredo.css"/>
+      <link rel="stylesheet" href="public/css/Jacob.css"/>
+      <link rel="stylesheet" href="public/css/Max.css"/>
+      <script type="application/javascript" src="public/js/USmap.js" ></script>
+      <script type="application/javascript" src="public/js/CausesOfDeath.js" ></script>
+      <script type="application/javascript" src="public/js/DaysOfWeek.js" ></script>
+      <script type="application/javascript" src="public/js/DataModel.js" ></script>
+      <script type="application/javascript" src="public/js/Race.js" ></script>
+      <script type="application/javascript" src="public/js/Gender.js" ></script>
+      <script type="application/javascript" src="public/js/script.js" ></script>
+  </head>
+
+  <body>
+
+    <div class="container">
+    <header class="header">
+        <h1 class="text" id="title">Opioid Epidemic: Drug Overdoses in the USA from 1999-2015</h1>
+        <h3 class="text"  id="names">Jacob Crump, Jean Frédo Louis, Max Taggart</h3>
+    </header>
+
+    <div id="slider">
+      <input type='range' min='1999' max='2015' step='1' value='1999' id='rangeSlider'
+        onChange="changeYear(this.value)" autocomplete="off"/>
+        <img src="public/images/play.png" id="play_button" onclick="play()"/>
+        <img src="public/images/pause.png" id="pause_button" onclick="pause()"/>
+
+    </div>
+
+    <ul class="range-labels">
+      <li>1999</li>
+      <li>2000</li>
+      <li>2001</li>
+      <li>2002</li>
+      <li>2003</li>
+      <li>2004</li>
+      <li>2005</li>
+      <li>2006</li>
+      <li>2007</li>
+      <li>2008</li>
+      <li>2009</li>
+      <li>2010</li>
+      <li>2011</li>
+      <li>2012</li>
+      <li>2013</li>
+      <li>2014</li>
+      <li>2015</li>
+    </ul>
+    <div id="USmap"><button onclick="allStates()" id="allStates">All States</button></div>
+    <div id="topTen"> <h3  class="text" id="topTentitle">Causes of death</h3> <p  class="text" id="topTensub">(Total deaths)</p></div>
+    <div id="bottomPanel">
+      <h3 class="text" id="daysOfWeekHeader">Days of the Week</h3><p  class="text" id="daysOfWeeksub">(Total deaths per day)</p>
+      <div id="daysOfWeek"></div>
+      <h3 class="text" id="genderTitle">Gender</h3><p class="text"  id="genderTitlesub">(Rate per 100,000)</p>
+      <div id="gender"></div>
+      <div id="ethnicity"> <h3 class="text"  id="raceTitle">Race and Ethinicity</h3><p class="text"  id="raceTitlesub">(Rate per 100,000)</p></div>
+    </div>
+    <div id="a-container"></div>
+
+  </body>
+</html>

@@ -1,0 +1,10 @@
+"Place of Death"	"Place of Death Code"	Deaths	Population	Crude Rate
+"Medical Facility - Inpatient"	"1"	55632	Not Applicable	Not Applicable
+"Medical Facility - Outpatient or ER"	"2"	84687	Not Applicable	Not Applicable
+"Medical Facility - Dead on Arrival"	"3"	17279	Not Applicable	Not Applicable
+"Medical Facility - Status unknown"	"10"	252	Not Applicable	Not Applicable
+"Decedent's home"	"4"	292908	Not Applicable	Not Applicable
+"Hospice facility"	"5"	1031	Not Applicable	Not Applicable
+"Nursing home/long term care"	"6"	2053	Not Applicable	Not Applicable
+"Other"	"7"	104296	Not Applicable	Not Applicable
+"Place of death unknown"	"9"	2558	Not Applicable	Not Applicable

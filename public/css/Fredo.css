@@ -1,0 +1,32 @@
+#topTen {
+  position:absolute;
+  left: 920px;
+  top: 75px;
+  width: 25%;
+}
+#topTentitle {
+  margin-left:120px;
+  margin-top:-5px;
+  margin-bottom: 3px;
+}
+#topTensub {
+  margin-top:-5px;
+  margin-bottom: 5px;
+  margin-left:140px;
+}
+
+#ethnicity {
+  position:absolute;
+  left: 1320px;
+  top: 430px;
+}
+#raceTitle {
+  margin-bottom: 0px;
+  margin-left: 50px;
+}
+
+#raceTitlesub {
+  margin-top:0px;
+  margin-bottom: 5px;
+  margin-left: 65px;
+}
